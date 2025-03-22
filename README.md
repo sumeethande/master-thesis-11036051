@@ -7,6 +7,8 @@ Download the repository from GitHub to your local machine.
 ### Step 2: Download the Model
 Use the link given below to access the  `'bert-base-multilingual-cased-v4'` fine-tuned model. Place the model folder in the web_app folder on your local machine.
 
+Make sure the the name of the folder is `model` and it is placed inside the `web_app` folder.
+
 Model download link https://drive.google.com/drive/folders/1dJjyYD65uvjKsElP0NI_JVwSpuAoam7t?usp=sharing
 
 ### Step 3: Download Dependencies
