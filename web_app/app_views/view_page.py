@@ -23,7 +23,7 @@ if "requested_file_for_viewing" in st.session_state:
     
 if file_to_view:
     st.write(f"You are now viewing the extracted data from :red[{file_to_view["name"]}]")
-    st.write(file_obj["extractions"])
+    st.write(file_to_view["extractions"])
 else:
     st.markdown("⚠️ Requested File cannot be found anymore. If has been removed, you will need to re-upload and extract the file.")
 
