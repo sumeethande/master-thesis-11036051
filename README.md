@@ -1,5 +1,9 @@
-# master-thesis-11036051
-This repository is the codebase for the Master Thesis of student Sumeet Hande with matriculation no. 11036051
+# InformatIQ💡
+
+
+## Welcome to InformatIQ. A place where information is made simple.
+
+💡Upload a PDF to the InformaIQ web-app. It will extract the important information for you which can be downloaded as a CSV.
 
 ### Step 1: Download Repository
 Download the repository from GitHub to your local machine.
