@@ -13,8 +13,6 @@ Use the link given below to access the  `'bert-base-multilingual-cased-v4'` fine
 
 Make sure the the name of the folder is `model` and it is placed inside the `web_app` folder.
 
-Model download link https://drive.google.com/drive/folders/1dJjyYD65uvjKsElP0NI_JVwSpuAoam7t?usp=sharing
-
 Note: Both the distilbert and bert fine-tuned versions are available on HuggingFace Hub at the following links:
 
 `distilbert-base-multilingual-cased-v6`: https://huggingface.co/sumeet-hande/distilbert-base-multilingual-cased-v6
